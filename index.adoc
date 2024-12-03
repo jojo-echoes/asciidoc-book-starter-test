@@ -1,0 +1,15 @@
+= Teaching Materials
+Author Name
+:toc:
+
+== Introduction
+
+This is the introduction to the teaching materials.
+
+== Lesson 1
+
+Content for lesson 1.
+
+== Lesson 2
+
+Content for lesson 2.

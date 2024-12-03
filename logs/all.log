@@ -1,0 +1,230 @@
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Controller servlet initialized. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-3
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Creation Time: 1733134652202
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134652222
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - userData.setHobby = null
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - userData.setAversion = null
+2024-12-02 18:17:51 INFO  ch3.startExample.Controller - address = Edit.jsp
+2024-12-02 18:17:51 INFO  EditJSP - Rendering Edit.jsp
+2024-12-02 18:17:51 INFO  EditJSP - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:17:51 INFO  EditJSP - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:17:51 INFO  EditJSP - Creation Time: 1733134652202
+2024-12-02 18:17:51 INFO  EditJSP - Last Accessed Time: 1733134652222
+2024-12-02 18:17:51 INFO  EditJSP - Max Inactive Interval: 1800
+2024-12-02 18:17:51 INFO  EditJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:17:51 INFO  EditJSP - UserData: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:17:51 INFO  EditJSP - Hobby: null
+2024-12-02 18:17:51 INFO  EditJSP - Aversion: null
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-8
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Creation Time: 1733134652202
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134671670
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - userData.setHobby = firefox
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - userData.setAversion = 123
+2024-12-02 18:18:00 INFO  ch3.startExample.Controller - address = Confirm.jsp
+2024-12-02 18:18:00 INFO  ConfirmJSP - Rendering Confirm.jsp
+2024-12-02 18:18:00 INFO  ConfirmJSP - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:00 INFO  ConfirmJSP - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:00 INFO  ConfirmJSP - Creation Time: 1733134652202
+2024-12-02 18:18:00 INFO  ConfirmJSP - Last Accessed Time: 1733134671670
+2024-12-02 18:18:00 INFO  ConfirmJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:00 INFO  ConfirmJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:00 INFO  ConfirmJSP - UserData: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:00 INFO  ConfirmJSP - Hobby: firefox
+2024-12-02 18:18:00 INFO  ConfirmJSP - Aversion: 123
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-9
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Creation Time: 1733134652202
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134680178
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - userData.setHobby = firefox
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - userData.setAversion = 123
+2024-12-02 18:18:01 INFO  ch3.startExample.Controller - address = Edit.jsp
+2024-12-02 18:18:01 INFO  EditJSP - Rendering Edit.jsp
+2024-12-02 18:18:01 INFO  EditJSP - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:01 INFO  EditJSP - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:01 INFO  EditJSP - Creation Time: 1733134652202
+2024-12-02 18:18:01 INFO  EditJSP - Last Accessed Time: 1733134680178
+2024-12-02 18:18:01 INFO  EditJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:01 INFO  EditJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:01 INFO  EditJSP - UserData: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:01 INFO  EditJSP - Hobby: firefox
+2024-12-02 18:18:01 INFO  EditJSP - Aversion: 123
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-10
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Creation Time: 1733134652202
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134681550
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - userData.setHobby = firefox
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - userData.setAversion = 123
+2024-12-02 18:18:02 INFO  ch3.startExample.Controller - address = Confirm.jsp
+2024-12-02 18:18:02 INFO  ConfirmJSP - Rendering Confirm.jsp
+2024-12-02 18:18:02 INFO  ConfirmJSP - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:02 INFO  ConfirmJSP - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:02 INFO  ConfirmJSP - Creation Time: 1733134652202
+2024-12-02 18:18:02 INFO  ConfirmJSP - Last Accessed Time: 1733134681550
+2024-12-02 18:18:02 INFO  ConfirmJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:02 INFO  ConfirmJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:02 INFO  ConfirmJSP - UserData: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:02 INFO  ConfirmJSP - Hobby: firefox
+2024-12-02 18:18:02 INFO  ConfirmJSP - Aversion: 123
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-10
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Creation Time: 1733134652202
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134682487
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - userData.setHobby = firefox
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - userData.setAversion = 123
+2024-12-02 18:18:03 INFO  ch3.startExample.Controller - address = Process.jsp
+2024-12-02 18:18:03 INFO  ProcessJSP - Rendering Process.jsp
+2024-12-02 18:18:03 INFO  ProcessJSP - Cookie - Name: JSESSIONID, Value: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:03 INFO  ProcessJSP - Session ID: 9D0F6BE5DBE33F41B0CB01949C7D3EFF
+2024-12-02 18:18:03 INFO  ProcessJSP - Creation Time: 1733134652202
+2024-12-02 18:18:03 INFO  ProcessJSP - Last Accessed Time: 1733134682487
+2024-12-02 18:18:03 INFO  ProcessJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:03 INFO  ProcessJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:03 INFO  ProcessJSP - UserData: ch3.startExample.UserDataBean@29256c11
+2024-12-02 18:18:03 INFO  ProcessJSP - Hobby: firefox
+2024-12-02 18:18:03 INFO  ProcessJSP - Aversion: 123
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-7
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Creation Time: 1733134669169
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134669171
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - userData.setHobby = null
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - userData.setAversion = null
+2024-12-02 18:18:04 INFO  ch3.startExample.Controller - address = Edit.jsp
+2024-12-02 18:18:04 INFO  EditJSP - Rendering Edit.jsp
+2024-12-02 18:18:04 INFO  EditJSP - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:04 INFO  EditJSP - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:04 INFO  EditJSP - Creation Time: 1733134669169
+2024-12-02 18:18:04 INFO  EditJSP - Last Accessed Time: 1733134669171
+2024-12-02 18:18:04 INFO  EditJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:04 INFO  EditJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:04 INFO  EditJSP - UserData: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:04 INFO  EditJSP - Hobby: null
+2024-12-02 18:18:04 INFO  EditJSP - Aversion: null
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-7
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Creation Time: 1733134669169
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134684950
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - userData.setHobby = chrome
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - userData.setAversion = 456
+2024-12-02 18:18:18 INFO  ch3.startExample.Controller - address = Confirm.jsp
+2024-12-02 18:18:18 INFO  ConfirmJSP - Rendering Confirm.jsp
+2024-12-02 18:18:18 INFO  ConfirmJSP - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:18 INFO  ConfirmJSP - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:18 INFO  ConfirmJSP - Creation Time: 1733134669169
+2024-12-02 18:18:18 INFO  ConfirmJSP - Last Accessed Time: 1733134684950
+2024-12-02 18:18:18 INFO  ConfirmJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:18 INFO  ConfirmJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:18 INFO  ConfirmJSP - UserData: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:18 INFO  ConfirmJSP - Hobby: chrome
+2024-12-02 18:18:18 INFO  ConfirmJSP - Aversion: 456
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-7
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Creation Time: 1733134669169
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134698408
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - userData.setHobby = chrome
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - userData.setAversion = 456
+2024-12-02 18:18:19 INFO  ch3.startExample.Controller - address = Edit.jsp
+2024-12-02 18:18:19 INFO  EditJSP - Rendering Edit.jsp
+2024-12-02 18:18:19 INFO  EditJSP - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:19 INFO  EditJSP - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:19 INFO  EditJSP - Creation Time: 1733134669169
+2024-12-02 18:18:19 INFO  EditJSP - Last Accessed Time: 1733134698408
+2024-12-02 18:18:19 INFO  EditJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:19 INFO  EditJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:19 INFO  EditJSP - UserData: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:19 INFO  EditJSP - Hobby: chrome
+2024-12-02 18:18:19 INFO  EditJSP - Aversion: 456
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-7
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Creation Time: 1733134669169
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134699567
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - userData.setHobby = chrome
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - userData.setAversion = 456
+2024-12-02 18:18:20 INFO  ch3.startExample.Controller - address = Confirm.jsp
+2024-12-02 18:18:20 INFO  ConfirmJSP - Rendering Confirm.jsp
+2024-12-02 18:18:20 INFO  ConfirmJSP - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:20 INFO  ConfirmJSP - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:20 INFO  ConfirmJSP - Creation Time: 1733134669169
+2024-12-02 18:18:20 INFO  ConfirmJSP - Last Accessed Time: 1733134699567
+2024-12-02 18:18:20 INFO  ConfirmJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:20 INFO  ConfirmJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:20 INFO  ConfirmJSP - UserData: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:20 INFO  ConfirmJSP - Hobby: chrome
+2024-12-02 18:18:20 INFO  ConfirmJSP - Aversion: 456
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Service method called. HTTP method: GET. Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Controller = ch3.startExample.Controller@2c1a2ee1
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Handling GET request. Thread: http-bio-8282-exec-7
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Creation Time: 1733134669169
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Last Accessed Time: 1733134700537
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Max Inactive Interval: 1800
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - userData = ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - userData.setHobby = chrome
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - userData.setAversion = 456
+2024-12-02 18:18:21 INFO  ch3.startExample.Controller - address = Process.jsp
+2024-12-02 18:18:21 INFO  ProcessJSP - Rendering Process.jsp
+2024-12-02 18:18:21 INFO  ProcessJSP - Cookie - Name: JSESSIONID, Value: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:21 INFO  ProcessJSP - Session ID: 4F29C55CDD28F5815D1F24F1F2187E05
+2024-12-02 18:18:21 INFO  ProcessJSP - Creation Time: 1733134669169
+2024-12-02 18:18:21 INFO  ProcessJSP - Last Accessed Time: 1733134700537
+2024-12-02 18:18:21 INFO  ProcessJSP - Max Inactive Interval: 1800
+2024-12-02 18:18:21 INFO  ProcessJSP - Session Attribute - Name: userData, Value: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:21 INFO  ProcessJSP - UserData: ch3.startExample.UserDataBean@130a924d
+2024-12-02 18:18:21 INFO  ProcessJSP - Hobby: chrome
+2024-12-02 18:18:21 INFO  ProcessJSP - Aversion: 456
+2024-12-02 19:33:59 INFO  ch3.startExample.Controller - Controller servlet destroyed. Controller = ch3.startExample.Controller@2c1a2ee1
